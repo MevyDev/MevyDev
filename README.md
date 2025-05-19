@@ -10,6 +10,7 @@
 - ✨ Data Structures & Algorithms
 - ✨ Competitive Programming
 - ✨ Git
+- ✨ SQL
 
 ### 🌟 Hobbies : 
 - 🎮 Gaming
