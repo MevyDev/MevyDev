@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Mevy&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://view-counter.tobyhagan.com/?user=MevyDev)
 
 # Hi there 👋 I'm Mevy
 #### 🌐 Socials:
