@@ -21,7 +21,6 @@
 ### ⚡ Fun Facts:
 - ⌨️ I use a split mechanical keyboard with the Colemak layout
 - 💨 I type at 100 WPM
-- 🔇 I cannot stand music when I need to focus
 - 🌙 I am a night owl
 - 🤓 I run Arch Linux
 
