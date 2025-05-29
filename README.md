@@ -9,8 +9,8 @@
 ### 🧠 Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Competitive Programming
-- ✨ Git
 - ✨ SQL
+- ✨ Go
 
 ### 🌟 Hobbies : 
 - 🎮 Gaming
