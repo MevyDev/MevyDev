@@ -7,15 +7,14 @@
 ## 💫 About Me:
 
 ### 🧠 Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Competitive Programming
 - ✨ SQL
 - ✨ Go
+- ✨ Functional programming paradigm
 
 ### 🌟 Hobbies : 
 - 🎮 Gaming
 - 🔪 Flipping balisongs
-- 🦘 Jumping on a trampoline
+- ⌨️ Keyboards
 - 💡 Learning new things
 
 ### ⚡ Fun Facts:
