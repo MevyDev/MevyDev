@@ -2,8 +2,7 @@
 # Hi there 👋 I'm Mevy
 
 ### 🧠 Learning :
-- ✨ Go
-- ✨ Godot
+- ✨ Math
 - ✨ Competitive programming
 
 ### 🌐 Socials:
